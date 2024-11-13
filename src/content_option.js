@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "virat.rana.btech2022@sitpune.edu.in",
+    YOUR_FONE: "+91 72069 88733",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/air-droid",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    twitter: "https://x.com/viratrana265703/status/1856611125455946087?s=48",
 };
 export {
     meta,
